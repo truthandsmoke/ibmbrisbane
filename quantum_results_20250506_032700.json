@@ -1,0 +1,13 @@
+{
+  "counts": {
+    "10": 5,
+    "11": 488,
+    "00": 498,
+    "01": 9
+  },
+  "total_shots": 1000,
+  "circuit_info": {
+    "num_gates": 10,
+    "depth": 6
+  }
+}

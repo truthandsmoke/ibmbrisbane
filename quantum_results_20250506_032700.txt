@@ -1,0 +1,29 @@
+Quantum Computation Results - 20250506_032700
+===================================
+
+Backend: ibm_brisbane
+Number of qubits: 127
+Pending jobs in queue: 1
+
+Circuit Information:
+Number of gates: 10
+Circuit depth: 6
+
+Job Status Updates:
+
+Job status: QUEUED
+Time elapsed: 0:00:00.929021
+Estimated completion time: 03:29:37
+
+Job status: DONE
+Time elapsed: 0:00:31.478670
+
+Detailed Results:
+----------------
+Total shots: 1000
+
+Measurement probabilities:
+State 10: 0.50% (5 counts)
+State 11: 48.80% (488 counts)
+State 00: 49.80% (498 counts)
+State 01: 0.90% (9 counts)
