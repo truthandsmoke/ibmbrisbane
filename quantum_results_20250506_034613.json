@@ -1,0 +1,9 @@
+{
+  "circuit_info": {
+    "|00\u27e9_gates": 3,
+    "|11\u27e9_gates": 5,
+    "|+\u27e9_gates": 6,
+    "|-\u27e9_gates": 6
+  },
+  "results": "\nDetailed Results:\n----------------\n\n|00\u27e9 state results:\nTotal shots: 1000\nMeasured state 00: 99.10% (991 counts)\nMeasured state 01: 0.70% (7 counts)\nMeasured state 10: 0.20% (2 counts)\nPhysical interpretation: Both qubits in ground state (pointing down along Z-axis)\n\n|11\u27e9 state results:\nTotal shots: 1000\nMeasured state 11: 97.90% (979 counts)\nMeasured state 01: 1.20% (12 counts)\nMeasured state 10: 0.90% (9 counts)\nPhysical interpretation: Both qubits in excited state (pointing up along Z-axis)\n\n|+\u27e9 state results:\nTotal shots: 1000\nMeasured state 01: 49.70% (497 counts)\nMeasured state 00: 49.50% (495 counts)\nMeasured state 11: 0.40% (4 counts)\nMeasured state 10: 0.40% (4 counts)\nPhysical interpretation: Qubit in horizontal state (pointing along X-axis)\n\n|-\u27e9 state results:\nTotal shots: 1000\nMeasured state 00: 50.70% (507 counts)\nMeasured state 01: 48.90% (489 counts)\nMeasured state 10: 0.20% (2 counts)\nMeasured state 11: 0.20% (2 counts)\nPhysical interpretation: Qubit in vertical state (pointing along -X-axis)\n"
+}

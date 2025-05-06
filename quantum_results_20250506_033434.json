@@ -1,0 +1,33 @@
+{
+  "counts": {
+    "10": 2,
+    "00": 484,
+    "11": 507,
+    "01": 7
+  },
+  "total_shots": 1000,
+  "state_durations_ns": {
+    "10": 200,
+    "00": 48400,
+    "11": 50700,
+    "01": 700
+  },
+  "qubit_analysis": {
+    "0": {
+      "up": 509,
+      "down": 491
+    },
+    "1": {
+      "up": 514,
+      "down": 486
+    }
+  },
+  "correlation_analysis": {
+    "correlated_ratio": 0.991,
+    "anti_correlated_ratio": 0.009000000000000008
+  },
+  "circuit_info": {
+    "num_gates": 10,
+    "depth": 6
+  }
+}
